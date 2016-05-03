@@ -887,15 +887,16 @@ Potencia total instalada: 15 MW</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Proyecto
-Proyecto Central Hidroeléctrica Cuervo
-Inversión US$733.000.000</name>
+			<name>Proyecto Central Hidroeléctrica Cuervo
+		Inversión US$733.000.000</name>
 			<description><![CDATA[Nombre 	: 	Energía Austral SpA
-Empresa: Energía Austral SpA
-Potencia total: 642 MW<img src="https://s-media-cache-ak0.pinimg.com/avatars/energiaaustral_1345562285_140.jpg"/>
+		Empresa: Energía Austral SpA
+		Potencia total: 642 MW
+		<img src="https://s-media-cache-ak0.pinimg.com/avatars/energiaaustral_1345562285_140.jpg"/>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9PxMoZZXsGc" frameborder="0" allowfullscreen></iframe>]]></description>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/9PxMoZZXsGc" frameborder="0" allowfullscreen></iframe>]]>
+</description>
 			<Camera>
 				<longitude>-72.96614357118575</longitude>
 				<latitude>-45.23393359111843</latitude>
